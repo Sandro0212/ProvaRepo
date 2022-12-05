@@ -3,3 +3,5 @@ questo ci sara solo sul branch master
 commit sul master 1, before any branch creation
 linea scritta dal branch (branch-merge) //mantieni modifiche del branch "merge"
 Change made from second_branch
+change made from first_brach
+// I'm keeping both changes
